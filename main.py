@@ -7,9 +7,7 @@ def main():
     # pygame setup
     pygame.init()
     screen = pygame.display.set_mode((1280, 720))
-    clock = pygame.time.Clock()
     running = True
-    dt = 0
 
     # player_pos = pygame.Vector2(screen.get_width() / 2, screen.get_height() / 2)
     min_square_size = 20
@@ -43,11 +41,6 @@ def main():
                 print("hit")
                 square_size = random.randint(min_square_size, max_square_size)
                 target = pygame.Rect(random.randint(0, screen.get_width() - square_size), random.randint(0, screen.get_height() - square_size), square_size, square_size)
-
-        # limits FPS to 60
-        # dt is delta time in seconds since last frame, used for framerate-
-        # independent physics.
-        # dt = clock.tick(60) / 1000
 
     pygame.quit()
 
