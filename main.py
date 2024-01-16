@@ -1,14 +1,11 @@
 import pygame, random
 
 def main():
-    # Example file showing a circle moving on screen
-
     # pygame setup
     pygame.init()
     screen = pygame.display.set_mode((1280, 720))
     running = True
 
-    # player_pos = pygame.Vector2(screen.get_width() / 2, screen.get_height() / 2)
     min_square_size = 20
     max_square_size = 200
     square_size = random.randint(min_square_size, max_square_size)
@@ -28,7 +25,6 @@ def main():
         # fill the screen with a color to wipe away anything from last frame
         screen.fill("black")
 
-        # pygame.draw.circle(screen, "red", player_pos, 40)
         pygame.draw.rect(screen, "blue", target)
 
         # flip() the display to put your work on screen
