@@ -1,5 +1,4 @@
-import pygame
-import random
+import pygame, random
 
 def main():
     # Example file showing a circle moving on screen
