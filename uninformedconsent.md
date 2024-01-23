@@ -18,7 +18,7 @@ To participate in this study, you must be able to click circles on a screen usin
 
 To collect data, our software will record how much you move the mouse, how long it takes you to successfully complete each trial, and whether you make any errors. This information will be recorded anonymously, and no personally identifiable information will be collected.
 
-If you successfully complete the study, you will be compensated with some candy.
+There will be no compensation for this study.
 
 You may end your participation in the study at any time. If you wish to end your participation, please notify one of the researchers. If you decide to end your participation early, any results collected by the software for your session will not be saved.
 
