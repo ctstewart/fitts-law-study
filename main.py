@@ -36,6 +36,8 @@ def main():
                 print("hit")
                 square_size = random.randint(min_square_size, max_square_size)
                 target = pygame.Rect(random.randint(0, screen.get_width() - square_size), random.randint(0, screen.get_height() - square_size), square_size, square_size)
+            else:
+                print("You suck")
 
     pygame.quit()
 
