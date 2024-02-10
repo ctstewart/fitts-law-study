@@ -1,9 +1,27 @@
-# Consent Form
+# INFORMED CONSENT DOCUMENT
 
-## The standard Lorem Ipsum passage, used since the 1500s
+Please read the following informed consent document. If you consent to the study, you will be able to participate in it and you will be compensated. If you do not consent and would like to cancel your participation in the study, let the researchers know and you will not be able to participate in it nor be compensated.
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Project Title: CS470 HCI – Fitts's Law study
 
-## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+Research Team:
 
-> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+-   Nate Bursch (nathaniel.bursch@mnsu.edu)
+-   Justin Engels (justin.engels@mnsu.edu)
+-   Christian Stewart (christian.stewart@mnsu.edu)
+
+Thank you for agreeing to participate in this research study! This document provides important information about what you will be asked to do during the research study, about the risks and benefits of the study, and about your rights as a research subject. If you have any questions about or do not understand something in this document, you should ask questions to the members of the research team listed above. Do not agree to participate in this research study unless the research team has answered your questions and you decide that you want to be part of this study.
+
+The purpose of this research study is to evaluate how accurately a user can click on differently-sized circles on screen. During the study, you will be randomly presented with several trials where each trial spawns a randomly placed circle on the screen. There will be a total of 160 trials, and each trial will take anywhere from 1 to 5 seconds, depending on your speed. The entire study should take no longer than 15 minutes to complete.
+
+To participate in this study, you must be able to click circles on a screen using a mouse/touchpad/etc., and be able to do that consistently for roughly 15 minutes.
+
+To collect data, our software will record how much you move the mouse, how long it takes you to successfully complete each trial, and whether you make any errors. This information will be recorded anonymously, and no personally identifiable information will be collected.
+
+There will be no compensation for this study.
+
+You may end your participation in the study at any time. If you wish to end your participation, please notify one of the researchers. If you decide to end your participation early, any results collected by the software for your session will not be saved.
+
+By agreeing to this form, you hereby acknowledge that you are at least 18 years of age, or have parental consent. You also indicate that you agree to the following statement:
+
+"I have read this consent form and I understand the risks, benefits, and procedures involved with participation in this research study. I hereby agree to participate in this research study."
