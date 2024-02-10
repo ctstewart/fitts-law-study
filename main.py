@@ -132,7 +132,7 @@ class Game:
         errors = 0
         start_time = pygame.time.get_ticks()
 
-        while self.running and trial <= 10:
+        while self.running and trial <= 320:
             clicked = False
             # poll for events
             # pygame.QUIT event means the user clicked X to close your window
